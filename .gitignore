@@ -1,0 +1,5 @@
+venv
+settings.py
+*.log
+.coverage
+.idea
